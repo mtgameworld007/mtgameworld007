@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**mtgameworld007/mtgameworld007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring developer focused on building interactive web applications, software tools, and exploring game development architectures.
 
-Here are some ideas to get you started:
+### 🚀 What I'm working on
+- 🛠️ Building foundational full-stack applications and projects.
+- 📚 Sharpening my skills in modern programming languages and clean code architecture.
+- 💬 Ask me about: **Web Development, JavaScript, and Tech Innovations**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack & Tools
+- **Languages:** JavaScript, HTML5, CSS3, Python
+- **Frameworks & Libraries:** React, Node.js
+- **Tools:** Git, GitHub, VS Code
+
+### 📫 Connect with me
+- **LinkedIn:** [Your LinkedIn URL Here]
+- **Email:** your.email@example.com
