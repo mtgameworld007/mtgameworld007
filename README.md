@@ -1,4 +1,4 @@
-# Hi there, I'm [Mtgamingworld007] 👋
+# Hi there, I'm Mtgamingworld007 👋
 
 I am an aspiring developer focused on building interactive web applications, software tools, and exploring game development architectures.
 
@@ -8,9 +8,7 @@ I am an aspiring developer focused on building interactive web applications, sof
 - 💬 Ask me about: **Web Development, JavaScript, and Tech Innovations**.
 
 ### 💻 Tech Stack & Tools
-- **Languages:** JavaScript, HTML5, CSS3, Python
-- **Frameworks & Libraries:** React, Node.js
-- **Tools:** Git, GitHub, VS Code
+![JavaScript](https://shields.io) ![Python](https://shields.io) ![React](https://shields.io) ![NodeJS](https://shields.io) ![Git](https://shields.io) ![VS Code](https://shields.io)
 
 ### 📫 Connect with me
-[![Instagram](https://www.instagram.com/itz_me_mtmohan?xtok=MXRkb3g2Nmp1emh0bQ==)
+[![Instagram](https://shields.io)](https://www.instagram.com/itz_me_mtmohan?xtok=MXRkb3g2Nmp1emh0bQ==)
