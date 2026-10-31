@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Mtgamingworld007] 👋
 
 I am an aspiring developer focused on building interactive web applications, software tools, and exploring game development architectures.
 
@@ -13,5 +13,4 @@ I am an aspiring developer focused on building interactive web applications, sof
 - **Tools:** Git, GitHub, VS Code
 
 ### 📫 Connect with me
-- **LinkedIn:** [Your LinkedIn URL Here]
-- **Email:** your.email@example.com
+[![Instagram](https://www.instagram.com/itz_me_mtmohan?xtok=MXRkb3g2Nmp1emh0bQ==)
